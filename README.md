@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="tensorflow" height="36px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
 <img align="left" alt="pytorch" height="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
 <img align="left" alt="Plotly" height="36px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
-<img align="left" alt="Plotly" height="36px" src="https://en.wikipedia.org/wiki/Chef_(software)#/media/File:Chef_logo.svg"/>
+<img align="left" alt="Chef" height="36px" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/chef-software-vector-logo.png"/>
 <br />
 <br />
 <br />
