@@ -5,6 +5,7 @@ Boston.</p>
 <p> Believe in sharing knowledge, if you have a lot do share.😁</p>
 <p>🔭 I’m currently working on movie recommendation engine with the help of unsupervised machine learning concepts.</p>
 <p>📫 How to reach me: khatu.r@northeastern.edu</p>
+<p>Below are some stuff i'm efficient at.</p>
 
 ### Languages:
 
