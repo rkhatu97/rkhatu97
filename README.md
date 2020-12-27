@@ -1,23 +1,11 @@
-### Hi there Fellow Developer/ Hiring Manager👋
+### Hi there Fellow Developer 👋
 <p>I am currently pursuing my Masters in Data Analytics from Northeastern University,
 Boston.</p>
 <p> Passionate about data. Likely to automate a daily task. Not self-obssesed, easy going, open to ideas, hit me up if you want to collaborate.</p>
+<p> Believe in sharing knowledge, if you have a lot do share.😁</p>
 <p>🔭 I’m currently working on movie recommendation engine with the help of unsupervised machine learning concepts.</p>
 <p>📫 How to reach me: khatu.r@northeastern.edu</p>
-<!--
-**rkhatu97/rkhatu97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Languages:
 
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
