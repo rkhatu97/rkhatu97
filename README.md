@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Chef" height="30px" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/chef-software-vector-logo.png"/>
 <img align="left" alt="Chef" height="36px" src="https://seekvectorlogo.com/wp-content/uploads/2017/12/vmware-vector-logo.png"/>
 <img align="left" alt="Chef" height="36px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"/>
+<img align="left" alt="Chef" height="36px" src="https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2018/10/codepolitan_anaconda_700_350-image700x350-crop.png"/>
 <br />
 <br />
 <br />
