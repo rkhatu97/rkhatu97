@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <img align="left" alt="pytorch" height="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
 <img align="left" alt="Plotly" height="36px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
 <img align="left" alt="Chef" height="30px" src="https://seekvectorlogo.com/wp-content/uploads/2018/12/chef-software-vector-logo.png"/>
+<img align="left" alt="Chef" height="36px" src="https://seekvectorlogo.com/wp-content/uploads/2017/12/vmware-vector-logo.png"/>
+<img align="left" alt="Chef" height="36px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"/>
 <br />
 <br />
 <br />
