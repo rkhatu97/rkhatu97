@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="34px" src="https://user-images.githubusercontent.com/43825167/89093531-551a7900-d389-11ea-91b5-4ff49f8051dd.png" />
 <img align="left" alt="Oracle" width="26px" src="https://user-images.githubusercontent.com/43825167/89093552-8b57f880-d389-11ea-9a70-5d9384ec5da2.png" />
-
 <br />
 <br />
 
@@ -46,6 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="tensorflow" height="36px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
 <img align="left" alt="pytorch" height="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" />
 <img align="left" alt="Plotly" height="36px" src="https://dash.plotly.com/assets/images/logo-plotly.png" />
+<br />
 <br />
 <br />
 
