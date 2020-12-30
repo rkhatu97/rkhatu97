@@ -42,6 +42,7 @@ Boston.</p>
 <img align="left" alt="Chef" height="36px" src="https://seekvectorlogo.com/wp-content/uploads/2017/12/vmware-vector-logo.png"/>
 <img align="left" alt="Chef" height="36px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"/>
 <img align="left" alt="Chef" height="36px" src="https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2018/10/codepolitan_anaconda_700_350-image700x350-crop.png"/>
+<img align="left" alt="Chef" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/582px-Apache_Spark_logo.svg.png"/>
 <br />
 <br />
 <br />
