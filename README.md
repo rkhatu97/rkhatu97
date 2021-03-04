@@ -30,7 +30,6 @@ Boston.</p>
 <img align="left" alt="Git" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="29px" src="https://user-images.githubusercontent.com/43825167/89092545-d0c3f800-d380-11ea-8b66-e806db30d83d.png" />
-<img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/43825167/89093765-40d77b80-d38b-11ea-83b9-342ec21617da.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/43825167/89093879-0f12e480-d38c-11ea-91f2-cb4b76268827.png" />
 <img align="left" alt="Django" height="36px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/17ac5b754e8518fa28c3653ed98deeba4b0e41e9/68747470733a2f2f63646e2e7261776769742e636f6d2f636c61726976652f636c612d73656c656e69756d2d706c7567696e2f6d61737465722f7075626c69632f69636f6e2f73656c656e69756d2e7376673f73616e6974697a653d74727565" />
