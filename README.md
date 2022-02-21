@@ -1,10 +1,10 @@
 ### Hi there Fellow Developer 👋
 <p>I am currently pursuing my Masters in Data Analytics from Northeastern University,
 Boston.</p>
-<p> Passionate about data. Likely to automate a daily task. Not self-obssesed, easy going, open to ideas, hit me up if you want to collaborate.</p>
+<p> Passionate about data. Likely to automate a daily task.Open to ideas, hit me up if you want to collaborate.</p>
 <p> Believe in sharing knowledge, if you have a lot do share.😁</p>
 <p>🔭 I’m currently working on movie recommendation engine with the help of unsupervised machine learning concepts.</p>
-<p>📫 How to reach me: khatu.r@northeastern.edu</p>
+<p>📫 How to reach me: rkhatu97@gmail.com</p>
 <p>Below are some stuff i'm efficient at.</p>
 
 ### Languages:
