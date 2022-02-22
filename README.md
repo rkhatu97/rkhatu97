@@ -1,9 +1,8 @@
 ### Hi there Fellow Developer 👋
-<p>I am currently pursuing my Masters in Data Analytics from Northeastern University,
-Boston.</p>
+<p>I am currently working as a Machine Learning Engineer at Shipt.</p>
 <p> Passionate about data. Likely to automate a daily task.Open to ideas, hit me up if you want to collaborate.</p>
 <p> Believe in sharing knowledge, if you have a lot do share.😁</p>
-<p>🔭 I’m currently working on movie recommendation engine with the help of unsupervised machine learning concepts.</p>
+<p>🔭 Learning unsupervised machine learning concepts.</p>
 <p>📫 How to reach me: rkhatu97@gmail.com</p>
 <p>Below are some stuff i'm efficient at.</p>
 
