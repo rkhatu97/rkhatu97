@@ -51,7 +51,4 @@
 <img align="left" alt="digitalocean" height="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
 <br />
 <br />
-<img align="left" alt="Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhatu97&layout=compact&count_private=true" />
-<br />
-<br />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rkhatu97&theme=highcontrast&hide_border=true" />
+<img align="left" alt="Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhatu97&layout=compact&count_private=true&theme=dark" />
