@@ -52,4 +52,4 @@
 <br />
 <br />
 <img align="left" alt="Github programs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhatu97&layout=compact&count_private=true" />
-<img align="right" alt="GitHub Streak" src"https://github-readme-streak-stats.herokuapp.com/?user=rkhatu97&theme=highcontrast" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rkhatu97)](https://git.io/streak-stats)
